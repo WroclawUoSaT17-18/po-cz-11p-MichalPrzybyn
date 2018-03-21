@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milionerzy", "Milionerzy\Milionerzy.csproj", "{951F6153-D453-401A-9BBE-4EE863855C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951F6153-D453-401A-9BBE-4EE863855C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951F6153-D453-401A-9BBE-4EE863855C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951F6153-D453-401A-9BBE-4EE863855C96}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{951F6153-D453-401A-9BBE-4EE863855C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951F6153-D453-401A-9BBE-4EE863855C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951F6153-D453-401A-9BBE-4EE863855C96}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40DE0F86-A8F7-4BD3-8306-5AD341321979}
+	EndGlobalSection
+EndGlobal
