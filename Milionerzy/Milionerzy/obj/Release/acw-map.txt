@@ -1,0 +1,4 @@
+Milionerzy.MainActivity, Milionerzy;md5d09725ac64839e91b8ea6c98998eb0da.MainActivity
+Milionerzy.MainActivity, Milionerzy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d09725ac64839e91b8ea6c98998eb0da.MainActivity
+Milionerzy.MainActivity;md5d09725ac64839e91b8ea6c98998eb0da.MainActivity
+milionerzy.MainActivity;md5d09725ac64839e91b8ea6c98998eb0da.MainActivity
