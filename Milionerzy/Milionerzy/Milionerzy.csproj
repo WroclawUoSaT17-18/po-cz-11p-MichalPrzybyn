@@ -103,7 +103,10 @@
     <AndroidResource Include="Resources\drawable\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\pytanie.txt" />
+    <AndroidAsset Include="Assets\pytanie1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\pytanie2.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -18,21 +18,21 @@
         android:text="Nowa Gra"
         android:layout_width="270.0dp"
         android:layout_height="50.0dp"
-        android:id="@+id/MyButton"
+        android:id="@+id/Grajmy"
         android:layout_marginTop="20.0dp"
         android:layout_marginLeft="60.0dp" />
     <Button
         android:text="Rekordy"
         android:layout_width="270.0dp"
         android:layout_height="50.0dp"
-        android:id="@+id/button1"
+        android:id="@+id/rekord"
         android:layout_marginTop="10.0dp"
         android:layout_marginLeft="60.0dp" />
     <Button
         android:text="Wyjscie"
         android:layout_width="270.0dp"
         android:layout_height="50.0dp"
-        android:id="@+id/button2"
+        android:id="@+id/Wyjscie"
         android:layout_marginTop="10.0dp"
         android:layout_marginLeft="60.0dp"
         android:onClick="Wyjscie" />
