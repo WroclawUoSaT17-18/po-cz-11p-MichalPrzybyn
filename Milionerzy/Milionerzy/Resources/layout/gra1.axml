@@ -14,20 +14,26 @@
         android:text="A."
         android:layout_height="75dp"
         android:layout_width="match_parent"
-        android:id="@+id/odpA" />
+        android:id="@+id/odpA1" />
     <Button
         android:text="B."
         android:layout_height="75dp"
         android:layout_width="match_parent"
-        android:id="@+id/odpB" />
+        android:id="@+id/odpB1" />
     <Button
         android:text="C."
         android:layout_height="75dp"
         android:layout_width="match_parent"
-        android:id="@+id/odpC" />
+        android:id="@+id/odpC1" />
     <Button
         android:text="D."
         android:layout_height="75dp"
         android:layout_width="match_parent"
-        android:id="@+id/odpD" />
+        android:id="@+id/odpD1" />
+    <TextView
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/licznik" />
 </LinearLayout>

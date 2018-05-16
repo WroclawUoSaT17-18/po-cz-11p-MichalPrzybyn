@@ -25,10 +25,7 @@ namespace Milionerzy
         {
             base.OnCreateView(inflater, container, savedInstanceState);
           
-
-
-          
-
+            
             var view = inflater.Inflate(Resource.Layout.pimie, container, false);
             
 
