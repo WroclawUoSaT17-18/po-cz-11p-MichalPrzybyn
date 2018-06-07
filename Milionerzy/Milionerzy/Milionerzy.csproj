@@ -57,8 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GlobalSuppressions.cs" />
-    <Compile Include="gra11.cs" />
-    <Compile Include="imie.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -107,9 +105,6 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\pytanie1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Assets\pytanie2.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
